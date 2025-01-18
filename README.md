@@ -2,6 +2,8 @@
 
 A Model Context Protocol server that provides tools for discovering events, venues, and attractions through the Ticketmaster Discovery API.
 
+<a href="https://glama.ai/mcp/servers/u91gv8f3on"><img width="380" height="200" src="https://glama.ai/mcp/servers/u91gv8f3on/badge" alt="Server for Ticketmaster Events MCP server" /></a>
+
 ## Features
 
 - Search for events, venues, and attractions with flexible filtering:
