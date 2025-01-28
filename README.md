@@ -1,4 +1,5 @@
 # MCP Server for Ticketmaster
+[![smithery badge](https://smithery.ai/badge/mcp-server-ticketmaster)](https://smithery.ai/server/mcp-server-ticketmaster)
 
 A Model Context Protocol server that provides tools for discovering events, venues, and attractions through the Ticketmaster Discovery API.
 
@@ -25,6 +26,15 @@ A Model Context Protocol server that provides tools for discovering events, venu
 
 ## Installation
 
+### Installing via Smithery
+
+To install MCP Server for Ticketmaster for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp-server-ticketmaster):
+
+```bash
+npx -y @smithery/cli install mcp-server-ticketmaster --client claude
+```
+
+### Manual Installation
 ```bash
 npx -y install @delorenj/mcp-server-ticketmaster
 ```
