@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/delorenj-mcp-server-ticketmaster-badge.png)](https://mseep.ai/app/delorenj-mcp-server-ticketmaster)
+
 # MCP Server for Ticketmaster
 [![smithery badge](https://smithery.ai/badge/mcp-server-ticketmaster)](https://smithery.ai/server/mcp-server-ticketmaster)
 
